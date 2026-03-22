@@ -35,7 +35,7 @@ The project was implemented in **R** using packages such as:
 - `dplyr`
 - `tidyr`
 - `ggplot2`
-- `knitr` :contentReference[oaicite:1]{index=1}
+- `knitr`
 
 The following parametric models were fitted:
 
@@ -48,7 +48,7 @@ The following parametric models were fitted:
 
 ## Main result
 
-After comparing the fitted models using AIC, the **Weibull model** was selected as the best-fitting model, with **AIC = 2974.036**. The Gamma and Exponential models were very close, but the Weibull model had the lowest AIC overall. :contentReference[oaicite:3]{index=3}
+After comparing the fitted models using AIC, the **Weibull model** was selected as the best-fitting model, with **AIC = 2974.036**. The Gamma and Exponential models were very close, but the Weibull model had the lowest AIC overall. 
 
 The estimated Weibull parameters were:
 
