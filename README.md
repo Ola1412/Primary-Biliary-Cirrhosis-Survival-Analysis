@@ -68,11 +68,13 @@ Estimated survival probabilities from the Weibull model were:
 
 ## Repository contents
 
-You can expect this repository to include files such as:
+This repository includes both the full analysis script and the staged scripts used to organize the group work:
 
-- `group3.SA1.R` — the main R script for data preparation, model fitting, model comparison, and Weibull life function analysis
-- `group3_SA1.pdf` — the project report/presentation
-- additional outputs or figures, depending on what the group decides to upload
+- `group3.SA1.R` — complete script containing the full survival analysis workflow
+- `Data_cleaning_and_exploration.R` — data preparation, cleaning, and exploratory analysis
+- `Fitting_models_and_selecting_the_best_model.R` — fitting parametric survival models and selecting the best model using AIC
+- `Life_function_and_plots.R` — Weibull life function analysis and plots
+- `group3_SA1.pdf` — final project report/presentation
 
 ## How to run the project
 
